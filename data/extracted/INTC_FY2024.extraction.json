@@ -1,0 +1,22 @@
+{
+  "status": "manual",
+  "method": "manual",
+  "warnings": [],
+  "notes": [
+    "Risk Factors text was supplied manually; automatic extraction was bypassed."
+  ],
+  "section_chars": 57,
+  "doc_chars": null,
+  "n_start_candidates": 0,
+  "start_marker": "(manual)",
+  "end_marker": "(manual)",
+  "n_paragraphs": 1,
+  "n_headings": 0,
+  "start_preview": [
+    "We face intense competition across our product portfolio."
+  ],
+  "end_preview": [
+    "We face intense competition across our product portfolio."
+  ],
+  "filing_id": "INTC_FY2024"
+}

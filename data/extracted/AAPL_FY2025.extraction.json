@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "method": "item_1a_heading",
+  "warnings": [],
+  "notes": [
+    "2 candidate section headings found (e.g. a table-of-contents entry); the one followed by the longest body was selected.",
+    "12 page artifacts (page numbers, running headers) removed."
+  ],
+  "section_chars": 67524,
+  "doc_chars": 204885,
+  "n_start_candidates": 2,
+  "start_marker": "Item 1A. Risk Factors",
+  "end_marker": "Item 1B. Unresolved Staff Comments",
+  "n_paragraphs": 106,
+  "n_headings": 32,
+  "start_preview": [
+    "The following summarizes factors that could have a material adverse effect on the Company’s business, reputation, results of operations, financial condition and stock price. The Company may not be able to accurately predict, control or mitigate these risks. Statements in this section are based on th",
+    "This section should be read in conjunction with Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Form 10-",
+    "Macroeconomic and Industry Risks",
+    "The Company’s operations and performance depend significantly on global and regional economic conditions and adverse economic conditions can materially adversely affect the Company’s business, results of operations, financial condition and stock price."
+  ],
+  "end_preview": [
+    "General Risks",
+    "The price of the Company’s stock is subject to volatility.",
+    "The Company’s stock has experienced substantial price volatility in the past and may continue to do so in the future. Additionally, the Company, the technology industry and the stock market as a whole have, from time to time, experienced extreme stock price and volume fluctuations that have affected"
+  ],
+  "filing_id": "AAPL_FY2025"
+}

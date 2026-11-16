@@ -1,0 +1,29 @@
+{
+  "status": "uncertain",
+  "method": "risk_factors_heading_fallback",
+  "warnings": [
+    "No usable 'Item 1A' heading was found. The section was located from a standalone 'Risk Factors' heading and the next recognised section title; verify the start and end previews before relying on this comparison."
+  ],
+  "notes": [
+    "15 page artifacts (page numbers, running headers) removed."
+  ],
+  "section_chars": 95874,
+  "doc_chars": 513188,
+  "n_start_candidates": 1,
+  "start_marker": "Risk Factors",
+  "end_marker": "Other Key Information",
+  "n_paragraphs": 156,
+  "n_headings": 22,
+  "start_preview": [
+    "The following summarizes what we believe to be the material factors that make an investment in our securities speculative or risky. When any one or more of the following risks materialize from time to time, our business, reputation, financial condition, cash flows and results of operations may be ma",
+    "We are in a highly competitive and rapidly changing industry.",
+    "The industry in which we operate is highly competitive and subject to rapid technological, geopolitical and market developments; changes in industry standards; changes in customer and end-user needs, expectations and preferences; and frequent product introductions and improvements. When we do not an",
+    "We face intense competition across our product portfolio. Our competitors include companies offering platform products, such as AMD and Qualcomm; accelerator products such as GPUs, including those offered by NVIDIA and AMD; other accelerator products such as ASICs, application-specific standard prod"
+  ],
+  "end_preview": [
+    "We are subject to risks associated with environmental, health, safety and product regulations.",
+    "The design, manufacturing, assembly and test of our products require the use and purchase of materials and chemicals that are subject to a broad array of environmental, health and safety laws and regulations. Our operations and those of our suppliers are further governed by laws and regulations gove",
+    "For example, environmental regulations, including with respect to the materials and processes we are permitted to use and as to air quality and wastewater requirements, may impede our ability to manufacture products or expand or modify our manufacturing capability in the future. Environmental laws a"
+  ],
+  "filing_id": "INTC_FY2025"
+}

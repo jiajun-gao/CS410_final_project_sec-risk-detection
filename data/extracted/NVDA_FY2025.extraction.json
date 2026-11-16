@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "method": "item_1a_heading",
+  "warnings": [],
+  "notes": [
+    "2 candidate section headings found (e.g. a table-of-contents entry); the one followed by the longest body was selected.",
+    "38 page artifacts (page numbers, running headers) removed.",
+    "10 paragraphs that were split across a page break were rejoined."
+  ],
+  "section_chars": 110212,
+  "doc_chars": 345747,
+  "n_start_candidates": 2,
+  "start_marker": "Item 1A. Risk Factors",
+  "end_marker": "Item 1B. Unresolved Staff Comments",
+  "n_paragraphs": 212,
+  "n_headings": 33,
+  "start_preview": [
+    "The following risk factors should be considered in addition to the other information in this Annual Report on Form 10-K. The following risks could harm our business, financial condition, results of operations or reputation, which could cause our stock price to decline. Additional risks, trends and u",
+    "Risk Factors Summary",
+    "Risks Related to Our Industry and Markets",
+    "• Failure to meet the evolving needs of our industry and markets may adversely impact our financial results."
+  ],
+  "end_preview": [
+    "We currently and will likely continue to face legal, administrative and regulatory proceedings, claims, demands and/or investigations involving shareholder, consumer, competition and/or other issues relating to our business. For example, we are defending a securities class action lawsuit from multip",
+    "Delaware law and our certificate of incorporation, bylaws and agreement with Microsoft could delay or prevent a change in control.",
+    "The anti-takeover provisions of the Delaware General Corporation Law may discourage, delay, or prevent a change in control. Provisions in our certificate of incorporation and bylaws could make it more difficult for a third party to acquire a majority of our outstanding stock. These provisions includ"
+  ],
+  "filing_id": "NVDA_FY2025"
+}
